@@ -1,5 +1,4 @@
 # best-repo-ever
 Trail Head Learning 
 
-
-First Checkout
+On new-branch-1, add and commit the changes
